@@ -1,0 +1,12 @@
+diff --git a/requirements-minimal.txt b/requirements-minimal.txt
+index f6466e1345caad311946ae5709aed523bdfa5f94..18c6ad142169b8b9b3567f6fffd86766c2297842 100644
+--- a/requirements-minimal.txt
++++ b/requirements-minimal.txt
+@@ -1,5 +1,7 @@
+ pandas
+ numpy
+ scikit-learn
+ streamlit
+ matplotlib
++yfinance
++hmmlearn
